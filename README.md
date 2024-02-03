@@ -27,17 +27,6 @@
 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)www.linkedin.com/in/bhumika-raj-657692261
-[![React](https://img.shields.io/badge/-React-darkblue?logo=React)](#)
-[![Next](https://img.shields.io/badge/-Next-gray?logo=Next)](#)
-[![Scss](https://img.shields.io/badge/-Scss-pink?logo=sass)](#)
-[![React Native](https://img.shields.io/badge/-React%20Native-darkblue?logo=React)](#)
-[![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-blue?logo=tailwindcss&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
-[![Cypress](https://img.shields.io/badge/-Cypress?logo=cypress)](#)
-[![Firebase](https://img.shields.io/badge/-Firebase?logo=firebase)](#)
 
 ### 🛠 Software and tools:
 
@@ -60,11 +49,6 @@
   <a href="#"><img alt="Canva" src="https://img.shields.io/badge/-Figma-3655d1?logo=figma&logoColor=white"></a>
 </p>
 
-<br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpendra766&show_icons=true&locale=en&layout=compact" alt="pushpendra766" /></p>
-<br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpendra766&show_icons=true&locale=en" alt="pushpendra766" /></p>
-<br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpendra766&" alt="pushpendra766" /></p>
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/pushpendra766?tab=repositories)!
+
+### Spread ❤️ !
