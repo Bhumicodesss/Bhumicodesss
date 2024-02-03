@@ -20,7 +20,7 @@
 ### 🔗 Connect with me:
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white&link=mailto:bhumi.rajshekharr@gmail.com)](mailto:bhumi.rajshekharr@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Bhumika%20Raj-pinkwww.linkedin.com/in/bhumika-raj-657692261?logo=Linkedin&logoColor=white&link=www.linkedin.com/in/bhumika-raj-657692261)](https://www.linkedin.com/in/bhumika-raj-657692261/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bhumika%20Raj-blue?www.linkedin.com/in/bhumika-raj-657692261?logo=Linkedin&logoColor=white&link=www.linkedin.com/in/bhumika-raj-657692261)](https://www.linkedin.com/in/bhumika-raj-657692261/)
 [![Twitter](https://img.shields.io/badge/@bhumirajshekhar-%231DA1F2.svg?logo=Twitter&logoColor=white)]((https://twitter.com/bhumirajshekhar))
 
 ### ⚡ Languages and Frameworks:
